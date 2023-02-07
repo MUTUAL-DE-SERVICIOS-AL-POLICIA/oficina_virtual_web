@@ -1,0 +1,3 @@
+HOST_URL_STI="http://192.168.2.231:9293/api" # PVT STI
+
+HOST_URL_PVT="http://192.168.2.231:9293/api" # PVT PVT
