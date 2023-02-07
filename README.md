@@ -1,17 +1,19 @@
-# virtual_officine
+# OFICINA VIRTUAL WEB
 
-A new Flutter project.
+Este proyecto contiene la oficina virtual en entorno web
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Despiegue en desarrollo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Agregue dentro del folder lib el archivo env.dart
+Agregue el contenido del archivo env.dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# test_oficina_virtual
+
+## Construir para produccion
+
+ejecutar -flutter clean
+ejecutar -flutter pub get
+ejecutar -flutter build web
+
